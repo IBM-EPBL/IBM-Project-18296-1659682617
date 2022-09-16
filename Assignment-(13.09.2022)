@@ -41,6 +41,6 @@ def fibonacciSeries(phi, n):
         print(result, end=" ")
 
 
-num = 10
+num1 = 10
 phi = (1 + math.sqrt(5)) / 2
-fibonacciSeries(phi, num)
+fibonacciSeries(phi, num1)
