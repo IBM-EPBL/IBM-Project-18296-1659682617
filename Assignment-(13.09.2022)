@@ -12,11 +12,12 @@ else:
 
 #odd number using while loop
 i=1
-n=20
-while i<=n:
+m=20
+while i<=m:
    if i%2 !=0:
      print(i)
    i=i+1
+
 #prime number in series 
 def prime(n): 
     for i in range(2,n//2+1): 
